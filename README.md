@@ -1,7 +1,7 @@
 # 4.17
 arduino AVR test
 
-> 아두이노 AVR 코딩 연습
+> 아두이노 AVR 코드 연습
 
 + BitOperator_test
   + Serial.print를 이용해 두 숫자를 논리연산자로 비교해본다.
